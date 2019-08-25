@@ -1,0 +1,5 @@
+9/18: DNS is back up.
+9/18: Created ET_Phone_Home irc bot.
+9/18: Science is down.
+9/19: Science back up.
+9/25: DHCP up for kittenz-n00bs.
